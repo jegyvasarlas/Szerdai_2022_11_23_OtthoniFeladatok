@@ -4,23 +4,35 @@ Ez a repository a 2022. 11. 23-as otthoni Szoftverfejlesztes gyakorlat orara kes
 
 ## Brancheck
 
-3.) Szoftverfejlesztés feladatok:
+### Szoftverfejlesztés feladatok:
 
-**Mikulas** - Gyakorló feladatok polimorfizmusra pdf-ben: minden, kivéve a Szerepjáték feladat
+Gyakorló feladatok polimorfizmusra pdf-ben: minden, kivéve a Szerepjáték feladat
 
-**Butorbolt** - Gyakorló feladatok polimorfizmusra pdf-ben: minden, kivéve a Szerepjáték feladat
+* Mikulas ✅
+* Butorbolt
+* Utazasi_Iroda ✅
+* Tibi
+* Vadasztarsasag
 
-**Utazasi_Iroda** - Gyakorló feladatok polimorfizmusra pdf-ben: minden, kivéve a Szerepjáték feladat
+### Webfejlesztés:
 
-**Tibi** - Gyakorló feladatok polimorfizmusra pdf-ben: minden, kivéve a Szerepjáték feladat
+Földrajz adatbázisban elkészíteni az összes kiadott feladatot
 
-**Vadasztarsasag** - Gyakorló feladatok polimorfizmusra pdf-ben: minden, kivéve a Szerepjáték feladat
+* Foldrajz ✅
 
-4.) Webfejlesztés:
+## Hasznalt programok:
 
-**Foldrajz** - Földrajz adatbázisban elkészíteni az összes kiadott feladatot
+* Visual Studio 2022
+* Visual Studio Code
 
+* draw.io
+* JetBrains DataGrip 2022.2.5
 
+* JetBrains Rider 2022.2.4
+* XAMPP
+
+* GitHub Desktop
+* Notepad++
 
 
       
