@@ -6,20 +6,11 @@ using System.Threading.Tasks;
 
 namespace Mikulas
 {
-    internal class HorseSledge : Vehicle
+    class HorseSledge : Vehicle
     {
         const int horseFactor = 60;
-        public HorseSledge()
-        {
-            idNovel();
-        }
-        public override int getPrice()
-        {
-            return base.getPrice() * horseFactor;
-        }
-        public override string GetType()
-        {
-            return "Lovas" + base.GetType();
-        }
+        public HorseSledge() { idNovel(); }
+        public override int getPrice() { return base.getPrice() * horseFactor; }
+        public override string GetType() { return "Lovas" + base.GetType(); }
     }
 }

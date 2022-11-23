@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Mikulas
 {
-    internal class HuskySledge : Vehicle
+    class HuskySledge : Vehicle
     {
         const int huskyFactor = 50;
         public HuskySledge()
