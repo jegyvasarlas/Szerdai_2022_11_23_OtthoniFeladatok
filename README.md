@@ -2,7 +2,7 @@
 
 Ez a repository a 2022. 11. 23-as otthoni Szoftverfejlesztes gyakorlat orara keszult
 
-## Branchek
+## Branchek (jelenleg: Vadasztarsasag)
 
 ### Szoftverfejlesztés feladatok:
 
