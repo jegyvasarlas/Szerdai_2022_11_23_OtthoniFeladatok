@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\Utazasi_Iroda\bin\Debug\Utazasi_Iroda.exe.config
+C:\Users\admin\source\repos\Utazasi_Iroda\bin\Debug\Utazasi_Iroda.exe
+C:\Users\admin\source\repos\Utazasi_Iroda\bin\Debug\Utazasi_Iroda.pdb
+C:\Users\admin\source\repos\Utazasi_Iroda\obj\Debug\Utazasi_Iroda.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Utazasi_Iroda\obj\Debug\Utazasi_Iroda.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\Utazasi_Iroda\obj\Debug\Utazasi_Iroda.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Utazasi_Iroda\obj\Debug\Utazasi_Iroda.exe
+C:\Users\admin\source\repos\Utazasi_Iroda\obj\Debug\Utazasi_Iroda.pdb
+C:\Users\admin\Documents\GitHub\1123szerda1700\Szerdai_2022_11_23_OtthoniFeladatok\bin\Debug\Utazasi_Iroda.exe.config
+C:\Users\admin\Documents\GitHub\1123szerda1700\Szerdai_2022_11_23_OtthoniFeladatok\bin\Debug\Utazasi_Iroda.exe
+C:\Users\admin\Documents\GitHub\1123szerda1700\Szerdai_2022_11_23_OtthoniFeladatok\bin\Debug\Utazasi_Iroda.pdb
+C:\Users\admin\Documents\GitHub\1123szerda1700\Szerdai_2022_11_23_OtthoniFeladatok\obj\Debug\Utazasi_Iroda.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\GitHub\1123szerda1700\Szerdai_2022_11_23_OtthoniFeladatok\obj\Debug\Utazasi_Iroda.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Documents\GitHub\1123szerda1700\Szerdai_2022_11_23_OtthoniFeladatok\obj\Debug\Utazasi_Iroda.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\GitHub\1123szerda1700\Szerdai_2022_11_23_OtthoniFeladatok\obj\Debug\Utazasi_Iroda.exe
+C:\Users\admin\Documents\GitHub\1123szerda1700\Szerdai_2022_11_23_OtthoniFeladatok\obj\Debug\Utazasi_Iroda.pdb
