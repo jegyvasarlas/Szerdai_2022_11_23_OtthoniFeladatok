@@ -9,7 +9,7 @@ Ez a repository a 2022. 11. 23-as otthoni Szoftverfejlesztes gyakorlat orara kes
 Gyakorló feladatok polimorfizmusra pdf-ben: minden, kivéve a Szerepjáték feladat
 
 * Mikulas ✅
-* Butorbolt ⏳
+* Butorbolt ⏳(minden megvan az UML diagramon kivul)
 * Utazasi_Iroda ✅
 * Tibi ❌
 * Vadasztarsasag ✅
