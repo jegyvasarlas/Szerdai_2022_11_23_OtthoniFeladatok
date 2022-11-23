@@ -1,0 +1,8 @@
+C:\Users\admin\source\repos\Mikulas\bin\Debug\Mikulas.exe.config
+C:\Users\admin\source\repos\Mikulas\bin\Debug\Mikulas.exe
+C:\Users\admin\source\repos\Mikulas\bin\Debug\Mikulas.pdb
+C:\Users\admin\source\repos\Mikulas\obj\Debug\Mikulas.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Mikulas\obj\Debug\Mikulas.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\Mikulas\obj\Debug\Mikulas.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Mikulas\obj\Debug\Mikulas.exe
+C:\Users\admin\source\repos\Mikulas\obj\Debug\Mikulas.pdb
